@@ -7928,6 +7928,11 @@ button.bg-dark:focus {
   margin-left: auto !important;
 }
 
+@media (min-width: 300px) {
+  .mb-0{
+    font-size: 30px;
+  }
+}
 @media (min-width: 400px) {
   .mb-0{
     font-size: 60px;
