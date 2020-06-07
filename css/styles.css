@@ -7928,21 +7928,7 @@ button.bg-dark:focus {
   margin-left: auto !important;
 }
 
-@media (min-width: 300px) {
-  .mb-0{
-    font-size: 30px;
-  }
-}
-@media (min-width: 400px) {
-  .mb-0{
-    font-size: 60px;
-  }
-}
 @media (min-width: 576px) {
-  .mb-0{
-    font-size: 70px;
-  }
-
   .m-sm-0 {
     margin: 0 !important;
   }
@@ -8376,7 +8362,6 @@ button.bg-dark:focus {
   }
 }
 @media (min-width: 768px) {
-
   .m-md-0 {
     margin: 0 !important;
   }
@@ -8810,12 +8795,6 @@ button.bg-dark:focus {
   }
 }
 @media (min-width: 992px) {
-
-  .mb-0{
-    font-size: 96px;
-    size: 1.4em;
-  }
-
   .m-lg-0 {
     margin: 0 !important;
   }
@@ -9249,11 +9228,6 @@ button.bg-dark:focus {
   }
 }
 @media (min-width: 1200px) {
-
-  .mb-0{
-    font-size: 96px;
-  }
-
   .m-xl-0 {
     margin: 0 !important;
   }
